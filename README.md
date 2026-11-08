@@ -53,9 +53,9 @@ no se incluyen aquí: obtenerlas de los proyectos de origen (ver Créditos).
 - `research/device_dumps/live_fdt.dtb`: mapa de hardware del Mi A2 Lite (`/sys/firmware/fdt`).
 - `docs/`: notas de la investigación y procedimiento de copia de seguridad.
 
-## Qué NO está en este repositorio
+## Qué NO está en este R.E.P.O
 
-- Copias de particiones (`userdata`, `gpt`, `ssd`, `keystore`, `boot`...). Son datos del dispositivo.
+- Copias de particiones (`userdata`, `gpt`, `ssd`, `keystore`, `boot`...). Son MIOSSS ;P
 - IPSW de iOS ni el árbol de dispositivo de Apple (`DeviceTree.d22ap`). Hay que obtenerlos del propio IPSW de Apple.
 - Binarios del kernel XNU compilados.
 
