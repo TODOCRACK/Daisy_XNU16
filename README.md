@@ -7,8 +7,8 @@ The actual REPO where i'm working on updates is on private (for now) :P
 
 
 Pruebas de bring-up de un shim de arranque para el **Xiaomi Mi A2 Lite (daisy, MSM8953)**,
-con la intención de llegar a iOS 16 mediante un kernel XNU. **Estado: experimental.
-No es un sistema operativo estable ni usable, puede dejar tu móvil como un ladrillo :P.**
+con la intención de hacer funcionar iOS 16 mediante un kernel XNU. 
+**Estado: experimental. No es un sistema operativo estable ni usable, puede dejar tu móvil como un ladrillo :P.**
 
 El shim se carga siempre con `fastboot boot` (solo RAM). Nada de este repositorio
 escribe en las particiones del móvil.
