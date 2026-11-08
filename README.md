@@ -1,4 +1,4 @@
-# ios-daisy-tests
+# Daisy_XNU16
 
 Pruebas de bring-up de un shim de arranque para el **Xiaomi Mi A2 Lite (daisy, MSM8953)**,
 con la intención de llegar a iOS 16 mediante un kernel XNU. **Estado: experimental.
