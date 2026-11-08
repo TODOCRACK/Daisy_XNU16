@@ -10,7 +10,7 @@ Port based on https://github.com/arabaci0711-ux/ios-vince
 
 Pruebas de bring-up de un shim de arranque para el **Xiaomi Mi A2 Lite (daisy, MSM8953)**,
 con la intención de llegar a iOS 16 mediante un kernel XNU. **Estado: experimental.
-No es un sistema operativo usable y puede dejar el móvil inservible.**
+No es un sistema operativo estable ni usable, puede dejar tu móvil como un ladrillo :P.**
 
 El shim se carga siempre con `fastboot boot` (solo RAM). Nada de este repositorio
 escribe en las particiones del móvil.
