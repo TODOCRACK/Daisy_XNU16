@@ -3,11 +3,8 @@
 
 Xiaomi Redmi 6 Pro (Daisy / Qualcomm MSM8953 Snapdragon 625), targeting iOS 16
 
-The actual REPO where i'm working is on private (for now) :P
+The actual REPO where i'm working on updates is on private (for now) :P
 
-Using dumped files from https://github.com/frost2k5-org/xiaomi_daisy_sprout_dump
-
-Port based on https://github.com/arabaci0711-ux/ios-vince
 
 Pruebas de bring-up de un shim de arranque para el **Xiaomi Mi A2 Lite (daisy, MSM8953)**,
 con la intención de llegar a iOS 16 mediante un kernel XNU. **Estado: experimental.
@@ -69,5 +66,6 @@ no se incluyen aquí: obtenerlas de los proyectos de origen (ver Créditos).
 
 - [arabaci0711-ux/ios-vince](https://github.com/arabaci0711-ux/ios-vince): shim y parches XNU para vince (MSM8953), base de este trabajo.
 - [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet): herramientas de empaquetado del sistema de iOS.
+- Dumped files from https://github.com/frost2k5-org/xiaomi_daisy_sprout_dump
 - postmarketOS y msm8953-mainline: referencia de hardware.
 - Apple: XNU de código abierto.
