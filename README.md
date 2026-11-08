@@ -70,5 +70,3 @@ no se incluyen aquí: obtenerlas de los proyectos de origen (ver Créditos).
 - [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet): herramientas de empaquetado del sistema de iOS.
 - postmarketOS y msm8953-mainline: referencia de hardware.
 - Apple: XNU de código abierto.
-
-Licencia: pendiente de decidir (revisar las licencias de los proyectos de origen antes de publicar).
