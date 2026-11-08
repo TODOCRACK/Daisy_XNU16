@@ -7,7 +7,6 @@
 
 ## Almacenamiento
 - `userdata` en la eMMC: 54.819.536.384 bytes (107069407 sectores, LBA `0xE60000`). Confirmado con la tabla GPT y con `fastboot getvar partition-size:userdata`.
-- Sistema de archivos de `userdata` no identificable por cabecera (ni f2fs ni ext4 en claro): probablemente cifrado.
 - Tamaño de la eMMC: 62.537.072.640 bytes (122142720 sectores).
 
 ## Tarjeta SD
